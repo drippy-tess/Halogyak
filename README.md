@@ -1,2 +1,2 @@
-# Hálózat
-Cisco Packet Tracer + Knowledge Documentation
+# Halogyak
+Cisco Packet Tracer files + Knowledge Documentation
