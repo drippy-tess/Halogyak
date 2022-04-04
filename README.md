@@ -1,2 +1,1 @@
-# Halogyak
-Cisco Packet Tracer files + Knowledge Documentation
+# Cisco Packet Tracer files + Knowledge Documentation
